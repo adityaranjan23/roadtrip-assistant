@@ -1,4 +1,5 @@
 🚗 RoadTrip Assistant — Travel Planning Made Smart!
+
 RoadTrip Assistant is a user-friendly web app built using Streamlit (for GUI), Python (for logic), and OpenStreetMap APIs (for data). It helps travelers explore routes between Indian cities, find tourist attractions, check distances, and locate gas stations — all through natural language input like:
 
 "Find attractions between Pune and Mumbai"
